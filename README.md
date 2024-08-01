@@ -40,9 +40,9 @@
 
 - 빅데이터 학습 
     - 실습자료, 파이썬 기본(패스), 빅데이터 분석 기초학습
-    - [NoteBook](넘파이)
-    - 판다스
-    - 맷플롭립
+    - [넘파이](https://github.com/kimdongju1/IoT-bigdata-2024/blob/main/day1/bda01_numpy_basic.ipynb)
+    - [판다스](https://github.com/kimdongju1/IoT-bigdata-2024/blob/main/day1/bad02_pandas_basic.ipynb)
+    - 맷플롭립(https://github.com/kimdongju1/IoT-bigdata-2024/blob/main/day1/bda03_matplotlib_basic.ipynb)
 
 ## 2일차
 
